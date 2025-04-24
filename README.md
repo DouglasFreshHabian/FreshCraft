@@ -6,9 +6,9 @@
 ![Kali Linux](https://img.shields.io/badge/Tested-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Tested-Raspberry%20Pi-green.svg)
 
-# 📦 freshbackup.sh — Simple & Secure Linux Backup Tool
+# 📦 [freshbackup.sh](https://github.com/DouglasFreshHabian/FreshCraft/blob/main/freshbackup.sh) — Simple & Secure Linux Backup Tool
 
-**FreshBackup** is a stylish, menu-driven Bash script that helps you back up directories easily and securely. Whether you want full copies, compressed archives, or encrypted backups, FreshBackup has you covered. You can even restore encrypted backups directly from the script.
+[FreshBackup](https://github.com/DouglasFreshHabian/FreshCraft/blob/main/freshbackup.sh) is a stylish, **menu-driven** `Bash` script that helps you back up directories easily and securely. Whether you want full copies, compressed archives, or encrypted backups, [FreshBackup](https://github.com/DouglasFreshHabian/FreshCraft/blob/main/freshbackup.sh) has you covered. You can even restore encrypted backups directly from the script.
 
 ---
 
@@ -107,7 +107,7 @@ Add this line:
 MIT License — use it freely in personal or commercial projects. Attribution appreciated but not required.
 
 ## 👨‍💻  Author 
-freshbackup.sh handcrafted by you — powered up by Bash, colored by ANSI, protected by OpenSSL 💪
+[freshbackup.sh](https://github.com/DouglasFreshHabian/FreshCraft/blob/main/freshbackup.sh) handcrafted by you — powered up by Bash, colored by ANSI, protected by OpenSSL 💪
 
 | Name:             | Description                                       |
 | :---------------- | :------------------------------------------------ |
