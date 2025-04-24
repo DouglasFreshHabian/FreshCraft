@@ -4,7 +4,6 @@
 ![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
 ![Debian](https://img.shields.io/badge/Tested-Debian%2FUbuntu-lightgrey.svg)
 ![Kali Linux](https://img.shields.io/badge/Tested-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Tested-Parrot%20OS-1BD96A?logo=parrot-security&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Tested-Raspberry%20Pi-green.svg)
 
 # 📦 freshbackup.sh — Simple & Secure Linux Backup Tool
@@ -97,13 +96,18 @@ Add this line:
 #### 🔹 The script will decrypt it using the passphrase in ~/.backup_passphrase.
 #### 🔸 Files will be extracted to: /media/douglas/64F8-97E2/Backup_Extracted/.
 
-## ⚠️  Notes
+## 💡 Tips
 
 #### 🔻 Make sure the backup drive is mounted before running the script.
 #### 🔸 The Backup_Extracted folder is created automatically if it doesn't exist.
 #### 🔺 If you get permission errors during extraction, they are likely harmless. Ownership won't be changed unless run as root.
 
+## 📝 License
+
+MIT License — use it freely in personal or commercial projects. Attribution appreciated but not required.
+
 ## 👨‍💻  Author 
+freshbackup.sh handcrafted by you — powered up by Bash, colored by ANSI, protected by OpenSSL 💪
 
 | Name:             | Description                                       |
 | :---------------- | :------------------------------------------------ |
@@ -111,6 +115,7 @@ Add this line:
 | Author:           | Douglas Habian                                    |
 | Version:          | 1.1                                               |
 | Repo:             | https://github.com/DouglasFreshHabian/FreshCraft  |
+
 
 
 
