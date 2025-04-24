@@ -57,11 +57,11 @@ EOF
 }
 
 #---------------- CONFIG ----------------#
-SYNC_SOURCE_DIR="/home/douglas/ansi"
-SYNC_BACKUP_DIR="/media/douglas/64F8-97E2/ansi"
-SOURCE_DIR="/home/douglas/Bash_Scripts/"
-BACKUP_DIR="/media/douglas/64F8-97E2"
-EXTRACT_DIR="$BACKUP_DIR/Backup_Extracted"
+SYNC_SOURCE_DIR="/path/to/directory"
+SYNC_BACKUP_DIR="/path/to/directory"
+SOURCE_DIR="path/to/directory"
+BACKUP_DIR="path/to/directory"
+EXTRACT_DIR="$BACKUP_DIR/path/to/directory"
 PASSPHRASE_FILE="$HOME/.backup_passphrase"
 DATE=$(date +"%Y%m%d_%H%M%S")
 DEST_NAME="backup_$DATE"
