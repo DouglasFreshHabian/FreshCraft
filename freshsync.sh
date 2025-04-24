@@ -64,8 +64,8 @@ EOF
 ascii_banner
 
 # Configuration
-SOURCE_DIR="/home/douglas/ansi"   # Change this to your source directory
-BACKUP_DIR="/media/douglas/64F8-97E2/ansi"      # Change this to your backup directory
+SOURCE_DIR="/path/to/directory"   # Change this to your source directory
+BACKUP_DIR="/path/to/directory"      # Change this to your backup directory
 
 # Function to create a backup (sync new/changed files)
 create_backup() {
